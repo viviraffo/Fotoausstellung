@@ -2,6 +2,8 @@
 
 Eine einfache, responsive Webseite für eine Fotoausstellung, erstellt mit HTML und **Tailwind CSS**.
 
+🌐 **Live-Demo:** [https://viviraffo.github.io/Fotoausstellung/](https://viviraffo.github.io/Fotoausstellung/)
+
 ---
 
 ## 📑 Inhaltsverzeichnis
@@ -40,11 +42,12 @@ Die Galerie umfasst derzeit die folgenden Fotografien:
 
 * **HTML5** – Strukturierung der Webseite
 * **Tailwind CSS (via CDN)** – Styling und modernes Utility-First Grid-Layout
+* **GitHub Pages** – Hosting und Bereitstellung der Live-Webseite
 
 ---
 
 ## 🚀 Installation & Nutzung
 
-1. Klonen Sie das Repository oder laden Sie die `Fotoausstellung.html` Datei herunter:
+1. Klonen Sie das Repository:
    ```bash
-   git clone [https://github.com/dein-benutzername/fotoausstellung.git](https://github.com/dein-benutzername/fotoausstellung.git)
+   git clone [https://github.com/viviraffo/Fotoausstellung.git](https://github.com/viviraffo/Fotoausstellung.git)
