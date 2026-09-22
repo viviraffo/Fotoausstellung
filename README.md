@@ -1,34 +1,50 @@
-Fotoausstellung (Photography Exhibit)
+# 📷 Fotoausstellung (Photography Exhibit)
 
-Eine einfache, responsive Webseite zur Präsentation von Fotografien, entwickelt mit HTML5 und Tailwind CSS.
+Eine einfache, responsive Webseite für eine Fotoausstellung, erstellt mit HTML und **Tailwind CSS**.
 
-📷 Vorschau
+---
 
-Das Projekt zeigt eine Galerie-Ansicht mit drei Ausstellungsstücken:
+## 📑 Inhaltsverzeichnis
+- [Über das Projekt](#-über-das-projekt)
+- [Ausgestellte Werke](#-ausgestellte-werke)
+- [Verwendete Technologien](#-verwendete-technologien)
+- [Installation & Nutzung](#-installation--nutzung)
 
-Antikes Rom – Kolosseum in Rom, Italien
+---
 
-Die Berge – Verschneite Berglandschaft im Sonnenlicht
+## 🎨 Über das Projekt
 
-Der Ozean – Ein Schiff im türkisblauen Meer
+Dieses Projekt präsentiert eine kleine Online-Fotogalerie. Die Bilder werden in übersichtlichen Karten (*Cards*) dargestellt und passen sich dank einspaltigem Grid-Layout optimal an verschiedene Bildschirmgrößen an.
 
-🚀 Technologien
+---
 
-HTML5 – Semantisches Markup
+## 🖼️ Ausgestellte Werke
 
-Tailwind CSS (via CDN) – Utility-First CSS Framework für das Styling und Layout
+Die Galerie umfasst derzeit die folgenden Fotografien:
 
-🛠️ Installation & Nutzung
+1. **Antikes Rom**  
+   * **Beschreibung:** Ein beeindruckendes Bild des Kolosseums in Rom, Italien.  
+   * **Bildquelle:** `colosseo.jpg`
 
-Lade das Projekt herunter oder klone das Repository:
+2. **Die Berge**  
+   * **Beschreibung:** Eine malerische Berglandschaft mit verschneiten Gipfeln im Sonnenlicht.  
+   * **Bildquelle:** `alps.jpg`
 
-git clone https://github.com/dein-benutzername/fotoausstellung.git
+3. **Der Ozean**  
+   * **Beschreibung:** Ein Schiff im kristallklaren, türkisblauen Ozean.  
+   * **Bildquelle:** `sea.jpg`
 
+---
 
-Öffne die Datei Fotoausstellung.html direkt in einem beliebigen Browser (z. B. Chrome, Firefox, Edge).
+## 🛠️ Verwendete Technologien
 
-🎨 Features & Design
+* **HTML5** – Strukturierung der Webseite
+* **Tailwind CSS (via CDN)** – Styling und modernes Utility-First Grid-Layout
 
-Responsive Grid Layout: Die Ausstellungsstücke werden untereinander im Grid dargestellt.
+---
 
-Modernes Styling: Abgerundete Ecken (rounded-md), weiße Typografie und eleganter indigoblauer Hintergrund (bg-indigo-300).
+## 🚀 Installation & Nutzung
+
+1. Klonen Sie das Repository oder laden Sie die `Fotoausstellung.html` Datei herunter:
+   ```bash
+   git clone [https://github.com/dein-benutzername/fotoausstellung.git](https://github.com/dein-benutzername/fotoausstellung.git)
