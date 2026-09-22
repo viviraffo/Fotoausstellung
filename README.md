@@ -2,7 +2,7 @@
 
 Eine einfache, responsive Webseite für eine Fotoausstellung, erstellt mit HTML und **Tailwind CSS**.
 
-🌐 **Live-Demo:** [https://viviraffo.github.io/Fotoausstellung/](https://viviraffo.github.io/Fotoausstellung/)
+🌐 **Live-Demo:** [https://viviraffo.github.io/Fotoausstellung/](https://viviraffo.github.io/Fotoausstellung/Fotoausstellung.html)
 
 ---
 
